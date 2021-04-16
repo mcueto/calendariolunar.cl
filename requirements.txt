@@ -2,7 +2,7 @@ astral==1.9
 certifi==2018.8.13
 chardet==3.0.4
 Django==2.1.11
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-mathfilters==0.4.0
 djangorestframework==3.9.1
 gunicorn==19.9.0
